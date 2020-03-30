@@ -1,6 +1,6 @@
 # `Version`
 
-Semantic version model for [Swift Package Manager.](https://github.com/apple/swift-package-manager)
+Semantic version model for [Swift Package Manager](https://github.com/apple/swift-package-manager)
 
 ## `Comparable` Bundle Version
 
